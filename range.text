@@ -1,0 +1,15 @@
+<DOCTYYPE html>
+<html>
+<head>
+<title>html inpute/cootact</title>
+</head>
+   <form>
+<input  type='text'><br>
+<input  type='submit'><br>
+<input  type='file'><br>
+<input  type='data'><br>
+<input  type='radio'><br>
+<input  type='range'><br>
+   </form>
+</body>
+</html>
